@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Drawing;
+using System.Windows.Forms;
 using System.Linq;
 using WindowsDisplayAPI.DisplayConfig;
 using WindowsDisplayAPI.Exceptions;
